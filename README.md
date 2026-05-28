@@ -76,3 +76,7 @@ In this project, a 4-bit Arithmetic Logic Unit (ALU) was successfully designed a
 
 This project provided practical knowledge about digital circuit design, VHDL programming, and FPGA simulation. It also demonstrated the importance of ALUs in modern computing systems and digital electronics applications.
 
+#OUTPUT
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/caeb07ad-a755-4786-8b14-352353486169" />
+
